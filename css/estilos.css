@@ -1,0 +1,161 @@
+h1 {
+    color: #000000;
+    background: #FFFFFF;
+    text-shadow: 2px 2px 0 #bcbcbc, 4px 4px 0 #9c9c9c;
+    color: #000000;
+    background: #FFFFFF;
+    font-size: 50px;
+    text-align: center;
+    }
+h2 {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 15px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: underline;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: normal;
+    }
+h3 {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 15px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: underline;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: normal;
+}
+br {
+    color: gray;
+}
+img {
+    border-radius: 30%;
+    width: 210px;
+    height: 210px;
+    justify-content: center;
+    background-position: center;
+    
+  }
+div {font-family: "Lucida Console", Monaco, monospace;
+    font-size: 13px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;   
+    }
+p {font-family: "Lucida Console", Monaco, monospace;
+      font-size: 13px;
+      letter-spacing: 1px;
+      word-spacing: 1px;
+      color: #000000;
+      font-weight: normal;
+      text-decoration: none;
+      font-style: normal;
+      font-variant: normal;
+      text-transform: none;
+    }
+ul {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 13px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+
+body{
+    background-image: url(fondo.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 1370px 800px;
+    background-attachment: fixed;
+}
+
+li{font-family: "Lucida Console", Monaco, monospace;
+    font-size: 13px;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    
+}
+
+.img-1{
+  background-position: center;
+    justify-content: center;
+}
+
+.img-2 {
+    justify-content: center;
+  }
+.img-3{
+    width: 80px;
+    height: 80px;
+   }
+.img-4{
+    width: 80px;
+    height: 80px;
+  }
+.miBoton{
+        color: rgb(255, 255, 255); font-size: 16px; line-height: 16px; padding: 6px; border-radius: 10px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(28, 110, 164) 0%, rgb(35, 136, 203) 50%, rgb(20, 78, 117) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+        .myButton:hover {
+        background: #1C6EA4; }
+        .myButton:active {
+        background: #144E75; }
+nav{
+color: #FFFFFF;
+}
+
+.btn btn-outline-success me-2{
+  display: inline-block;
+  
+}
+
+* {
+    box-sizing: border-box;
+  }
+header {
+  
+  text-align: center;
+  display: center;
+}
+  
+.menu {
+    width: 80%;
+    float: left;
+    padding: 15px;
+    border: 1px solid rgb(16, 30, 78);
+    margin-left: 135px;
+    margin-right: 100px;
+    
+  }
+  
+.main {
+    width: 80%;
+    padding: 15px;
+    border: 1px solid rgb(16, 30, 78);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+  
+
+  
